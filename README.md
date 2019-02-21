@@ -1,5 +1,5 @@
 <!-- mdformat off(GitHub header) -->
-Grab n Go Loaners
+Grab n Go Loaners Suggested Installtion Guide
 [![Build Status](https://travis-ci.org/google/loaner.svg?branch=master)](https://travis-ci.org/google/loaner)
 ======
 <!-- mdformat on -->
@@ -29,13 +29,6 @@ The program is comprised of three parts:
 Please note that the current release of this application is in ALPHA.
 We will be actively contributing to the project. Please keep an eye out for
 future updates and features!
-
-To clone this release run the following command:
-
-```
-git clone -b Alpha-\(0.7\) https://github.com/google/loaner.git
-cd loaner
-```
 
 * To discuss this project send an email to loaner@googlegroups.com.
 * Read more about releases in our [release notes](docs/release_notes.md).
