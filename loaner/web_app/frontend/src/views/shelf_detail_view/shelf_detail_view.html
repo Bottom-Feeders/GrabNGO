@@ -1,0 +1,12 @@
+<div *ngIf="shelf">
+  <loaner-shelf-details [shelf]="shelf"></loaner-shelf-details>
+
+  <loaner-device-header cardTitle="Devices on {{shelf.name}}"
+                        [showButtons]="false">
+  </loaner-device-header>
+
+  <loaner-device-list-table [showButtons]="false"
+                            [showStatus]="false"
+                            [shelf]="shelf">
+  </loaner-device-list-table>
+</div>

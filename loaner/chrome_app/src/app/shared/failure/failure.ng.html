@@ -1,0 +1,14 @@
+<span matDialogTitle>
+  {{ title }}
+</span>
+<div mat-dialog-content>
+  <p>
+    {{ data.message }}
+  </p>
+  <p>
+    Please try again later.
+  </p>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="closeDialog()">Close</button>
+</div>
