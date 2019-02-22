@@ -18,7 +18,7 @@ Using the GnG project, enterprise users can self-checkout a loaner Chromebook
 and begin using it right away, thereby decreasing the workload on IT support
 while keeping users productive.
 
-The program is comprised of three parts:
+The program is comprised of three parts: Hey
 
 *   An enterprise G Suite domain
 *   A Google App Engine (GAE) application
